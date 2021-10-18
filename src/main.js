@@ -14,7 +14,7 @@ $(() => {
         $.get(`./static/${queryObj.tpl}`).done(createEditor);
     }
     else {
-        LS.mpe_content ? createEditor(LS.mpe_content) : $.get('./static/demo.md').done(createEditor);
+        LS.mpe_content ? createEditor(LS.mpe_content) : $.get('./static/kiss.md').done(createEditor);
     }
 });
 
