@@ -82,7 +82,7 @@
 
 接下来是一张图片。你可以用自己图床，也可以上传到微信媒体库再把图片 URL 粘贴回来，或者编辑好以后，在公众号里插入图片。
 
-![](https://res.wx.qq.com/mpres/zh_CN/htmledition/pages/login/loginpage/images/bg_banner4273fb.png)
+![清洁能源](https://static.www.tencent.com/uploads/2021/08/20/ad84d0de738deda8603d0103f332f30b.jpg)
 
 代码块，使用微信官方的高亮配色，在代码块标示语言即可。粘贴到公众号后，需要用鼠标点一下代码块，完成高亮。
 
